@@ -1,0 +1,10 @@
+streamlit
+pandas
+numpy
+requests
+matplotlib
+scikit-learn
+sympy
+streamlit-autorefresh
+reportlab
+XlsxWriter
